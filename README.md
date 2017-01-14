@@ -1,2 +1,2 @@
 # DailyMession
-a simple todo aplication.
+a simple todo application.
